@@ -1,5 +1,5 @@
 # Excel Automation Pipeline
-
+“Atualizado em 12/12/2025”
 Automação de planilhas com Python: limpeza, validações de qualidade e integração de dados.
 
 ## Objetivo
